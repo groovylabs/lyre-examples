@@ -1,2 +1,2 @@
-# lyre-examples
-Lyre examples
+# lyre-samples
+Lyre samples
